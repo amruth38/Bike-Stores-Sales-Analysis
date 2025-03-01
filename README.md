@@ -1,3 +1,8 @@
+
+![Tableau Executive DashBoard Screenshot](https://github.com/user-attachments/assets/7da690da-8cbf-43bc-a0ba-13d2225c2d9a)
+![Excel Dashboard Screenshot](https://github.com/user-attachments/assets/50bc1a14-5d0d-447a-bdf4-d86d9baebe84)
+
+
 # Bike Stores Sales Analysis  
 
 This project focuses on analyzing sales data from 2016 to 2018 for a bike store chain using SQL, Excel, and Tableau. The objective is to derive actionable insights into sales trends, customer contributions, and sales rep performance, supported by interactive dashboards.  
